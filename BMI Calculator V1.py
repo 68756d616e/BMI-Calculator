@@ -11,6 +11,8 @@ BMI_INT = (int(BMI))
 
 print(BMI_INT)
 
+#Alternative BMI = Weight / float(Height) * float(Height)
+
 
 
 
